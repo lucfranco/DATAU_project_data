@@ -1,0 +1,6 @@
+# Specify filepatterns you want git to ignore.
+.DS_Store
+#screen/
+project_data.sublime-workspace
+project_data.sublime-project
+main.sublime-workspace
